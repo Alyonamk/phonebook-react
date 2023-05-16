@@ -1,0 +1,32 @@
+.formstyle {
+    padding: 20px;
+    width: 400px;
+    border-radius: 10px;
+    border: 1mm ridge rgba(211, 220, 50, 0.6);
+    margin-bottom: 15px;
+  }
+  
+  .input {
+    margin-top: 10px;
+    margin-bottom: 8px;
+    margin: 10px 0;
+    width: 350px;
+    height: 25px;
+    background-color: rgb(248, 236, 142);
+    border-radius: 3px;
+    box-shadow: 1px 1px 2px 1px rgb(255, 253, 105);
+    border: 1mm ridge rgba(211, 220, 50, 0.6);
+  }
+  
+  .button {
+    margin-top: 10px;
+    background-color: rgb(248, 236, 142);
+    border-radius: 3px;
+    padding: 1px 10px;
+    border: 1mm ridge rgba(211, 220, 50, 0.6);
+    font-size: medium;
+  }
+  
+  .button:hover {
+    background: rgba(211, 220, 50, 0.6);
+  }
